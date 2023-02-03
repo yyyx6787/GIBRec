@@ -12,7 +12,7 @@ The hidden dimensionality is  set as 32 to achieve their best performance as rep
 
 ## How to Run the Code
     python Main.py --data gowalla   
-    python Main.py --data retail_roacket
+    python Main.py --data retail_rocket
     python Main.py --data kindle
 Firstly you need to unzip data. Then you need to create ../History directory and ../Models directory. Then you can run the code following the order.
 
