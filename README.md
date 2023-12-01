@@ -1,4 +1,4 @@
-# Graph Information Botteleneck is Robust Data Augmentor for Recommendation #
+# Robust Graph Augmentation for Recommendation #
 This is the implementation of Graph Information Botteleneck is Robust Data Augmentor for Recommendation:
 
 ## Requirements ##
