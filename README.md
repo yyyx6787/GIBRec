@@ -1,5 +1,5 @@
 # Robust Graph Augmentation for Recommendation #
-This is the implementation of Graph Information Botteleneck is Robust Data Augmentor for Recommendation:
+This is the implementation of Robust Graph Augmentation for Recommendation:
 
 ## Requirements ##
 Pytorch = 1.12.1, python = 3.9.13
